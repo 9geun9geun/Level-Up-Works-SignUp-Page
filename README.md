@@ -7,4 +7,4 @@ Can also edit your profile and state which school you go to.
 The search bar was made using Azure Bing Search, where you can search information regarding the Level Up Works programme. 
 The chatbot is also made using Azure where it answers questions related to the programme.
 
-![](Levelup Works1.JPG)
+![](lvlup1.jpg)
